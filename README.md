@@ -19,7 +19,12 @@ Proyek ini adalah Tugas Portofolio AI berupa aplikasi keamanan siber berbasis we
 * **Database:** SQLite.
 
 ## 🖼️ Tampilan Aplikasi
-*(Silakan tarik gambar screenshot halaman Login 3D dan Dashboard kamu ke sini)*
+<img width="1920" height="1026" alt="Screenshot 2026-11-24 192608" src="https://github.com/user-attachments/assets/00586a79-e7c9-4d87-b698-a5d7a3836fdf" />
+<img width="1920" height="1031" alt="Screenshot 2026-11-24 192508" src="https://github.com/user-attachments/assets/9e1498b6-fa21-469c-ae0c-feab4daffef9" />
+<img width="1920" height="1036" alt="Screenshot 2026-11-24 192410" src="https://github.com/user-attachments/assets/b34112b6-1cbb-4d61-82b9-53c8d90ec69b" />
+<img width="1920" height="1037" alt="Screenshot 2026-11-24 192242" src="https://github.com/user-attachments/assets/6d0ff964-92a5-4164-9c77-bc9ffca943bc" />
+<img width="1920" height="1034" alt="Screenshot 2026-11-24 192045" src="https://github.com/user-attachments/assets/fe436c13-4abb-4657-9c3e-09149989d8ce" />
+
 
 ## 📁 Struktur Folder
 * `/aplikasi` - Kode utama website Laravel (Controller, Model).
